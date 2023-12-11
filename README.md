@@ -5,6 +5,11 @@ Zip Boom
 但这代码真的写得很烂
 
 Run:
-python ZIPBOOM.py --file-size (size) --name (name,default:ZIP-BOOM-FINAL) --type (type,default:7z)
+python ZIPBOOM.py --file-size (size) --name (name,default:ZIP-BOOM-FINAL) --type (type,default:7z) 
+
+size = size * 9.5GB
+
+请勿用于非法用途
+造成损失我不负责
 
 =)
